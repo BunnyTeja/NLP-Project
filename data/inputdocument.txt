@@ -1,0 +1,167 @@
+When you sign in with your Apple ID, you will enable services such as iCloud, the App Store, iMessage, and Find My on this iPhone.
+
+Certain data, including your contacts, calendars, photos, documents, health, activity, and other app data, will be sent to Apple to store and back up on your behalf.
+
+In addition, your device will be associated with your Apple ID to provide you with better service and support.
+
+Your Apple ID and all Apple services are designed from the ground up to protect your privacy. We work hard to collect only the data we need to make your experience better. When we do collect data, we believe it’s important for you to know what we’re collecting and why we need it, so you can make informed choices.
+
+An Apple ID is the personal account you use to access Apple services like iCloud, the App Store and other Apple online stores, iMessage, and FaceTime, and to access your content across all your devices and the web. Your Apple ID includes the information you use to sign in, as well as all the contact, payment, and security details, such as trusted phone numbers or security questions, that you use across Apple services. Apple retains your device’s name, serial number, and other hardware identifiers to provide you with better service and support, including as a convenience to display the warranty status of your device and to check your eligibility for service offers when you activate a device. You can edit your Apple ID information and view a list of your devices on your Apple ID account page at appleid.apple.com.
+
+When you sign in with your Apple ID you will enable services such as iCloud, the App Store, iMessage, FaceTime, and Find My on this iPhone. Your Apple ID account information will be used with each service, and certain data from your device, including your selected profile photo, your contacts, calendars, photos, documents, health, activity, Safari tabs, and other app data, will be sent to Apple to store and back up on your behalf.
+
+iCloud and Privacy
+
+Signing in to iCloud
+
+When you use iCloud, certain data you store on your device will be automatically sent to and stored by Apple. This allows you to access your data on all your iCloud-enabled devices or computers (“devices”) automatically. This data may include:
+
+Contacts
+
+Calendars
+
+Reminders
+
+Bookmarks
+
+Safari tabs
+
+Health data
+
+Home data
+
+Notes
+
+Photos
+
+Documents
+
+Wallet data
+
+Keychain and passwords
+
+Device and account settings
+
+Data from third-party apps that use iCloud
+
+iCloud Backup is also enabled to help ensure you have a current backup of the data on your device in case you need to replace or restore it.
+
+You can adjust which iCloud features are enabled and what data is sent to iCloud from Settings on your device at any time.
+
+iCloud Data Security
+
+iCloud protects your information by encrypting it when it’s in transit, storing it in iCloud in an encrypted format, and using secure tokens for authentication. For certain information, Apple uses end-to-end encryption. This means that, by design, only you can access this information, and only on devices where you’re signed in to iCloud. No one else, not even Apple, can access end-to-end encrypted information. For more information on iCloud Data Security, visit support.apple.com/kb/HT202303.
+
+Both Apple and third-party data centers may be used to store and process your data. When processing data stored in a third-party data center, encryption keys are accessed only by Apple software running on secure servers, and only while conducting the necessary processing.
+
+iCloud Keychain
+
+iCloud Keychain keeps your Safari website usernames and passwords, credit card information, and Wi-Fi network information up to date and available across all your devices. It can also store the account information you use for Mail, Contacts, Calendar, Messages, Facebook, Twitter, LinkedIn, and other internet accounts and automatically add this information to all of your devices.
+
+iCloud Keychain uses end-to-end encryption and is designed so that only you can access this information and only on devices where you’re signed in to iCloud. No one else, not even Apple, can access your iCloud keychain data. You can choose to turn off iCloud Keychain in your iCloud settings at any time.
+
+iCloud Backup
+
+When you use iCloud Backup, your backup may include photos, videos, messages (iMessage, SMS, and MMS), Health and other app data, location settings (such as location-based reminders that you have set up), Visual Voicemail, device settings, device characteristics, and other data from your iOS or iPadOS device depending on your Settings.
+
+You can stop iCloud from backing up your app data for a particular app by going to Settings > [your name] > iCloud > Manage Storage > Backups, selecting your iOS or iPadOS device in the Backups section, and tapping to turn off the apps for which you’d like to disable backup.
+
+You can turn off iCloud Backup entirely from iCloud settings and use Finder (macOS Catalina 10.15 or later) or iTunes (macOS Mojave 10.14 or earlier) to back up your iOS or iPadOS device to your computer. To completely remove your backup data from iCloud, you can delete your individual backups before turning off iCloud Backup. Otherwise, the backup data will be retained for up to 180 days.
+
+Sharing Data with iCloud
+
+If you use iCloud to share files either publicly or privately in Notes, Pages, Numbers, Keynote, and certain third-party apps, Apple will store and have access to the shared file. Your first and last name associated with your account and the file name will be available to anyone who has access to the sharing link, regardless of whether your share is private or public. The identities of private share participants will not be made available to anyone who has not been invited to and accepted the private share.
+
+iCloud and Apps
+
+Some apps use iCloud to store data and content you provide to the app, so you can access the data across all your iCloud-enabled devices. The app may choose to store some or all of your data in iCloud. Third-party apps can request to look you up, so that other users of that application can see your first and last name when they search by Apple ID.
+
+You can stop an app from storing data in iCloud by turning off its access to iCloud. To do so, go to Settings > [your name] > iCloud, and tap to turn off apps shown in the list.
+
+Find My
+
+When you sign in and enable iCloud on your device, certain features of Find My are enabled automatically. These include participation in the Find My network, a crowdsourced network of Apple devices that helps find missing devices or compatible items as described below, and the ability to play a sound on your device, remotely lock and display a message on it, or remotely erase it. You also will receive notifications if you are separated from your supported devices and items. Your iPhone, iPad, iPod touch, Apple Watch, and certain Macs will be protected with Activation Lock, and cannot be erased and reactivated without your password. For more information, visit support.apple.com/kb/HT208987. Enabling Find My on your iPhone will automatically enable it on any paired Apple Watch. You can also separately enable Find My network for an Apple Watch, which will enable it on your paired iPhone.
+
+When you use Find My, your device’s location, as well as information about your device and your account will be sent to and retained by Apple so we can provide you with the service. Your device’s location is sent to Apple only if you, or a Family Sharing group member you have chosen to share your device’s location with, actively request the location of a device or accessory. Apple retains location information and makes it accessible to you for 24 hours, after which it is deleted. When you have Location Services enabled, you can also choose to share your device’s current location using Share My Location. If you use this feature and both the device used for your location and the friend’s device you are sharing your location with are running iOS 15 or later, your location will be updated automatically using end-to-end encryption. When the device used for your location or your friend’s device is running an earlier operating system version, your location is sent to Apple if it is actively requested by a friend you are sharing with, and is retained for two hours, after which it is deleted. Share My Location is enabled only when you actively choose to share your location with someone else.
+
+Find My can help you locate your devices on a map if you have enabled Location Services. If you choose to enable the Send Last Location feature, your device’s last known location will be automatically sent to Apple any time your device’s battery reaches a critically low level.
+
+Find My can use the Find My network to help find devices even if they are not connected to the internet and, for supported devices, even if they are turned off or erased. Devices in the Find My network use Bluetooth wireless technology to detect missing devices or compatible items nearby, including AirTags and compatible third-party products registered to your Apple ID, and report their approximate location back to the owner. If a device is turned off or erased, that location is also visible to members of the owner’s Family Sharing group with whom they have chosen to share the location. The interaction is end-to-end encrypted, and Apple cannot see the location of any offline device or reporting device. When your device participates in the Find My network it can both be located by the network and anonymously help locate other missing devices. You can choose to have your iOS or iPadOS device not participate in the Find My network by going to Settings > [your name] > Find My > Find My [device] and tapping to disable Find My network. You can choose to have your Mac not participate in the Find My network by going to System Settings > [your name] > iCloud, clicking Options next to Find My Mac, and turning off Find My network. For more information on AirTags and compatible third-party products, including instructions on adding these products to Find My and registering them to your Apple ID, visit support.apple.com/kb/HT211331.
+
+You can turn off Find My and Activation Lock on your iOS or iPadOS device by going to Settings > [your name] > Find My > Find My [device] and tapping to turn off Find My [device]. On your Mac, go to System Settings > [your name] > iCloud and deselect Find My Mac, or on your PC, open iTunes.
+
+If you choose to receive notifications when you are separated from supported devices and items, your device will suggest locations where you will not receive notifications, such as your home or work. These locations are stored in a way that cannot be read by Apple. You can also turn off separation notifications in the Find My app on your iOS or iPadOS device by tapping “Devices” or “Items,” tapping a device or item, tapping Notify When Left Behind, then tapping to turn off Notify When Left Behind. In the Find My app on a Mac, click “Devices” or “Items,” select a device or item, click the Info button on the map, then turn off Notify When Left Behind.
+
+Apple Services That Require iCloud
+
+To use Apple services like Apple Pay, Activity sharing, Home, Handoff, Universal Clipboard, and Unlock with Apple Watch, you must be signed in to iCloud on your device. Apple uses your iCloud plan to verify your eligibility to set up and use Secure Camera Recording in the Home app. Apple can’t access the content of your camera recordings. You do not need to use all iCloud features and can turn off any iCloud features you don’t want to use in iCloud settings on your device.
+
+Signing Out of iCloud
+
+If you want to stop using iCloud on your iOS or iPadOS device and any paired Apple Watch, you can sign out of iCloud by going to Settings > [your name] and tapping Sign Out. To stop using iCloud on your Mac, go to System Settings > [your name] > Overview and sign out of iCloud. Your Apple ID password may be required.
+
+Communicating with You
+
+Apple may use information about your account, such as the Apple products you own, devices registered to your account, and your subscriptions to Apple services, to send you communications about iCloud and other Apple products, services, and offers that may be of interest to you, including Apple One. Your device serial number may be used to check eligibility for service offers. If you are in a Family Sharing group, Apple may send you communications about products, services, and offers available to you through Family Sharing. If you purchase an Apple One subscription, we may send you communications about the features of each of the services for which you have subscribed.
+
+Email Marketing
+
+You may receive these communications by email, if you consent to receive email marketing. You can change your email preferences and opt out of receiving these emails by going to appleid.apple.com, or on your iOS or iPadOS device by going to Settings > [your name] > Name, Phone Numbers, Email.
+
+Push Notifications
+
+You may also receive these communications by push notification. To update your notification preferences or to opt out of notifications on your iOS or iPadOS device, go to Settings > Notifications.
+
+Family Sharing
+
+Family Sharing lets you share certain content, location, subscriptions and screen usage information among family members; the family organizer can choose which shared features to enable. If Family Sharing is enabled for Apple Music, Apple TV, Apple Arcade, or Apple News+, family members will continue to sign in to each service using their own Apple IDs, keeping their individual libraries and recommendations private, while taking advantage of the family plan. Similarly, enabling Family Sharing for iCloud storage gives each family member access to the family storage plan, while keeping individual accounts and files separate.
+
+If Purchase Sharing is enabled, members of your family will automatically be able to access many of your past and future App Store, Apple Books, and Apple Music purchases, unless you choose to hide those purchases. To hide purchases, you can hide individual iTunes, Apple Books, and App Store purchases, or disable Share My Purchases within your personal Family Sharing settings; the family organizer will continue to receive receipts for purchases made in the App Store, Apple Books, and Apple Music even if you have hidden your purchases.
+
+If you choose to share your location with your family, all family members will automatically be able to see the location of all your devices in the Find My app so they can help you locate a missing device or see your current location on a map. You can manage or turn off location sharing with individual family members in Find My settings on your device.
+
+If you are the family organizer and enable Screen Time for Family, you will be able to view certain information about your family’s device usage. The family organizer can also choose to set Screen Time limits for the Family, which will be automatically enforced for children. The family organizer can grant permission to family members to view Screen Time information for other family members.
+
+iMessage and FaceTime
+
+When you sign in with your Apple ID on your iPhone, you will be signed in to iMessage and FaceTime automatically. Your Apple ID or phone numbers will be shown to the people you contact, and people can reach you using your Apple ID, and email addresses or phone numbers on your account. You can learn more about iMessage and FaceTime and Privacy by going to Settings > Messages and tapping About iMessage and FaceTime & Privacy.
+
+iTunes and App Store and Music
+
+When you sign in with your Apple ID on your iPhone, you will be signed in to the iTunes Store, App Store, and Apple Music automatically so that you can make purchases or begin using Apple Music quickly and easily. Any purchases you choose to make will be recorded in our systems so you can redownload them at any time. If you use Apple Music, your listening history may be retained and used to help provide personalized recommendations in Listen Now. You can choose not to share your listening history from Apple Music settings.
+
+If iTunes Match is available in your region and you use iTunes Match, iCloud will collect information about media in your iTunes library, and either match media to songs currently available in the iTunes Store or upload songs that cannot be matched, after which those songs can be accessed by your eligible devices.
+
+Apple One
+
+If your mobile network provider offers Apple One subscriptions and free trials, Apple may check your phone number to determine if you are eligible through a mobile network provider partner. If you signed up through your mobile network provider, your phone number is used to identify your account and to let the mobile network provider know that you have activated your subscription. We will use the phone number associated with your subscription to verify your account at sign in and to connect your Apple One subscription with your account.
+
+Payment Methods, Gift Cards, and Adding Funds to Apple ID Balance
+
+To make purchases from App Store, iTunes, Music, and more, you must add a valid payment method to your Apple ID. To add a payment method on iOS, go to Settings > [your name] > Payment & Shipping, tap Add Payment Method, and add relevant payment details. You may add payment details by manually entering information or taking a picture of your payment card. If you choose to add payment details by taking a picture of your payment card, your device will pull the relevant information from the image to populate the required fields; the image will not be seen or stored by Apple. Apple collects and stores the payment method details that you provide, including account number and expiration date, to carry out your purchases, comply with law, and to prevent fraud. You may also provide Apple with a billing and shipping address, which may be used for marketing and analytics purposes, as well as to comply with law and prevent fraud.
+
+When you use a payment card, Apple may retain and automatically update your card number and billing information for future purchases, recurring transactions, or other uses you authorize. Apple may obtain this information from your financial institution or payment network, and also use it for fraud prevention and verification.
+
+If you have enabled Apple Pay, Apple will also check whether any Apple Pay payment methods are eligible to be added as a payment method on file to your Apple ID and display those payment methods below Found in Wallet. When you conduct a transaction with your Apple ID, Apple may also check whether any Apple ID payment methods on file are eligible for Apple Pay. If so, to help safeguard your payment information, Apple may enable Apple Pay for that payment method. You can modify your payment methods at any time by going to Settings > [your name] > Payment & Shipping.
+
+You may purchase an Apple gift card using a payment method associated with your Apple ID and share the gift card with a recipient by providing Apple with their email address, your name, and the gift card amount. You may also enter a message if you so choose. Apple will use recipient information for purposes of gift card sales and redemptions, to comply with law, and to prevent fraud.
+
+You may also redeem an Apple gift card by applying the gift card value to your Apple ID balance. When you redeem an Apple gift card, information about the gift card will be associated with your Apple ID balance and may be used by Apple to comply with law and to prevent fraud. Certain information about your gift card redemption, such as the number of gift cards that you have redeemed, may also be used to personalize your redemption experience and communications from Apple to you. You may opt out of use of gift card information for personalization by going to iTunes Store, scrolling to the bottom, tapping Apple ID > View Apple ID and tapping to turn off Personalized Recommendations.
+
+You may add funds directly to your Apple ID balance using your payment method on file. When you add funds to your Apple ID balance, you may have the option to set automatic amount or time intervals for recurring funds increases. When you set up automatic funds increases, you will receive communications from Apple on your device or by email concerning your balance or recurring funds increases (for example confirmation notices, receipts, and reminders once you’ve enrolled). You can update or stop the automatic funds increases at any time in your Apple ID account settings.
+
+After you redeem a gift card or add funds to your Apple ID balance, your updated Apple account balance will be visible in Wallet so that you can easily use your Apple account balance for Apple Store purchases.
+
+To improve your experience with payment methods, gift cards, and adding funds to your Apple ID balance, Apple may collect certain data about your interactions, including your clicks and taps, with your Apple ID account payment settings.
+
+Usage Data
+
+We also collect data on your use of iCloud to provide and improve the quality of the service. To help address customer issues if they arise, some of this data may be associated with your Apple ID. We may use your IP address to determine the city and country from which you are accessing the service, but we do not retain it.
+
+Data Retention
+
+Where you make a purchase such as a subscription, we retain personal information associated with your purchase for the periods specified by applicable laws relating to financial reporting, which vary by region. For most customers, that requires at least a 10-year retention period, but in regions such as China that period can be 30 years. We may also retain a record of your interactions with iCloud-related services. These records are typically stored for 30 days but may be stored for up to three years in an aggregated form, unless we are required by law or legal process to store them for a longer period.
+
+At all times, information collected by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at www.apple.com/privacy
+
+Published Date: September 12, 2022
