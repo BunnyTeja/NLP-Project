@@ -1,4 +1,4 @@
-#Generating Summary for Terms and Conditions Document Based on the Query Provided
+# Generating Summary for Terms and Conditions Document Based on the Query Provided
 
 
 ## Code (Notebooks)
