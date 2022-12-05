@@ -1,7 +1,7 @@
 # Generating Summary for Terms and Conditions Document Based on the Query Provided
 
 
-## Code (Notebooks)
+## Code 
 - Summarization (2).ipynb : This notebook contains code for running two summarization methods by proving the URL of the Terms and Service webpage.
 
 ### Steps to run the code
